@@ -1,6 +1,6 @@
 - Hola, mi nombre es Monica Rebeca Ramos Flores
 - Soy cristiana evangelica
-- Estudio la carrera de Ingenieria en Computacion.
+- Estudio la carrera de Ingenieria en Computacion en UTH campus Choluteca.
 
 <!---
 Monica-Rebeca-Ramos-Flores/Monica-Rebeca-Ramos-Flores is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
